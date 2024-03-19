@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently looking for a job
-- 🧠 I’m currently learning spring boot
+- 🧠 I’m currently learning Vue.js
 - 🤓 I Always try to learn something new
 <br/>
 
