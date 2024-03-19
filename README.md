@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--h1 without bottom border-->
 
 <!--
-**raulalvarezids/raulalvarezids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,72 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Raul Alvarez 👋</h1></summary>
+  </ul>
+</div>
+
+<br/>
+
+<div id="user-content-toc">
+  <ul align="start">
+    <summary><h1 style="display: inline-block">🙋‍♂️ About me</h1></summary>
+  </ul>
+</div>
+
+
+- 🔭 I’m currently looking for a job
+- 🧠 I’m currently learning spring boot
+- 🤓 I Always try to learn something new
+<br/>
+
+  <!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="start">
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h2></summary>
+  </ul>
+</div>
+<br/>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,firebase,github,html,idea,java,js,linux,materialui,mysql,postgresql,nodejs,postman,py,react,redux,vscode&perline=14" />
+  </a>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+<div id="user-content-toc">
+  <ul align="start">
+    <summary><h2 style="display: inline-block"> ⚙️ &nbsp;GitHub Analytics</h2></summary>
+  </ul>
+</div>
+<br/>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=raulalvarezids&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raulalvarezids&theme=radical&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raulalvarezids&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <!--
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=203407&theme=merko&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  -->
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
