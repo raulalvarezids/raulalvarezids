@@ -39,6 +39,15 @@ Here are some ideas to get you started:
 - 🤓 I Always try to learn something new
 <br/>
 
+<div id="user-content-toc">
+  <ul align="start">
+    <summary><h1 style="display: inline-block">🌐 My blog</h1></summary>
+  </ul>
+</div>
+
+- https://ra-blog.netlify.app
+
+
   <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
@@ -49,7 +58,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,firebase,github,html,idea,java,js,linux,materialui,mysql,postgresql,nodejs,postman,py,react,redux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,firebase,github,typescript,html,idea,java,js,linux,materialui,mysql,postgresql,nodejs,postman,py,react,redux,vscode&perline=14" />
   </a>
 </p>
 
